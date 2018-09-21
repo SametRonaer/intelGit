@@ -8,6 +8,8 @@ public class Main {
         sc.nextInt();
         System.out.println("ikinci init");
         sc.nextInt();
+        System.out.println("son init");
+        sc.nextInt();
 
     }
 }
